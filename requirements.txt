@@ -1,0 +1,15 @@
+numpy
+matplotlib
+torch
+torchaudio
+librosa
+transformers
+pandas
+ipywidgets 
+h5py
+chardet
+accelerate
+tqdm
+datasets
+sentencepiece
+ipykernel
